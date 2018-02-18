@@ -6,7 +6,7 @@
     "prismjs": "^1.6.0"
   },
   "peerDependencies": {
-    "rxjs": "*",
-    "@angular/core": "*"
+    "rxjs": "5.4.3",
+    "@angular/core": "4.4.4"
   }
 }
